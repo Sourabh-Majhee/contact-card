@@ -84,7 +84,7 @@ const App: React.FC = () => {
           <div className="relative w-full bg-gray-950/80 backdrop-blur-xl rounded-2xl p-6 sm:p-8 border border-white/10 flex flex-col items-center space-y-6">
             <div style={{ transform: "translateZ(80px)" }}>
               <img
-                src="./src/sq-profile-pic.png"
+                src="./sq-profile-pic.png"
                 alt="Profile"
                 className="w-28 h-28 rounded-full object-cover border-4 border-gray-800 shadow-lg transition-all duration-500 group-hover:scale-110 group-hover:border-purple-500"
                 style={{
