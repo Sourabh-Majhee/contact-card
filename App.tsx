@@ -119,7 +119,7 @@ const App: React.FC = () => {
               </a>
 
               <a
-                href="mailto:sourabhmajhee605@gmail.com"
+                href="mailto:sourabhmajhee1111111@gmail.com"
                 className="group/item flex items-center justify-center gap-2 w-full sm:w-auto border border-white/20 rounded-full px-6 py-2 text-sm font-semibold text-white transition-all hover:bg-white/10 hover:shadow-[0_0_20px_theme(colors.pink.500)] transform hover:scale-105"
               >
                 <EmailIcon className="w-4 h-4 text-pink-400" />
