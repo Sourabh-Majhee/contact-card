@@ -136,7 +136,7 @@ const App: React.FC = () => {
               className="flex justify-center space-x-6"
               style={{ transform: "translateZ(30px)" }}
             >
-              <a
+              {/* <a
                 href="https://github.com/Sourabh-Majhee"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -144,7 +144,7 @@ const App: React.FC = () => {
                 className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110 hover:[&>svg]:drop-shadow-[0_0_8px_#fff]"
               >
                 <GitHubIcon className="w-8 h-8" />
-              </a>
+              </a> */}
               <a
                 href="https://www.linkedin.com/in/sourabh-majhee-443ba1330/"
                 target="_blank"
